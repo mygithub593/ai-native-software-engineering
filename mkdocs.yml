@@ -1,0 +1,7 @@
+site_name: AI Native Software Engineering
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
